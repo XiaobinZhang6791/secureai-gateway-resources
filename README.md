@@ -69,9 +69,3 @@ Approved AI Models
 - [Audit Evidence Overview](docs/evaluation-pack/audit-evidence-overview.md)
 - [Deployment Model](docs/evaluation-pack/deployment-model.md)
 
-Website: https://secureaigateway.ai
-Product walkthrough: https://secureaigateway.ai/demo
-Architecture: https://secureaigateway.ai/architecture
-Security & Trust: https://secureaigateway.ai/security-trust
-Resources: https://secureaigateway.ai/resources
-Contact: contact@secureaigateway.ai

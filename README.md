@@ -56,3 +56,15 @@ SecureAI Gateway
         |
         v
 Approved AI Models
+
+## Framework Mapping Documents
+
+- [Hong Kong PCPD AI Framework Mapping](docs/framework-mapping/hk-pcpd-ai-framework-mapping.md)
+- [Singapore AI Verify and Model AI Governance Mapping](docs/framework-mapping/sg-ai-verify-governance-mapping.md)
+
+## Enterprise Evaluation Pack
+
+- [Security Overview](docs/evaluation-pack/security-overview.md)
+- [Data Handling and Retention Overview](docs/evaluation-pack/data-handling-and-retention-overview.md)
+- [Audit Evidence Overview](docs/evaluation-pack/audit-evidence-overview.md)
+- [Deployment Model](docs/evaluation-pack/deployment-model.md)

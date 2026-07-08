@@ -56,6 +56,9 @@ SecureAI Gateway
         |
         v
 Approved AI Models
+```
+
+In this model, SecureAI Gateway acts as the governed control point before enterprise AI requests reach approved AI models.
 
 ## Framework Mapping Documents
 
@@ -68,3 +71,18 @@ Approved AI Models
 - [Data Handling and Retention Overview](docs/evaluation-pack/data-handling-and-retention-overview.md)
 - [Audit Evidence Overview](docs/evaluation-pack/audit-evidence-overview.md)
 - [Deployment Model](docs/evaluation-pack/deployment-model.md)
+
+## Public website pages
+
+- [SecureAI Gateway Website](https://secureaigateway.ai)
+- [Product Walkthrough](https://secureaigateway.ai/demo)
+- [Architecture](https://secureaigateway.ai/architecture)
+- [Security & Trust](https://secureaigateway.ai/security-trust)
+- [Resources](https://secureaigateway.ai/resources)
+- [Contact](https://secureaigateway.ai/contact)
+
+## Important note
+
+This repository is used as a public reference and discovery resource for SecureAI Gateway.
+
+It does not contain production source code, customer data, API keys, deployment secrets or internal security configurations.

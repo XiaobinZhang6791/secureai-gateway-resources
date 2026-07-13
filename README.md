@@ -71,7 +71,10 @@ In this model, SecureAI Gateway acts as the governed control point before enterp
 - [Data Handling and Retention Overview](docs/evaluation-pack/data-handling-and-retention-overview.md)
 - [Audit Evidence Overview](docs/evaluation-pack/audit-evidence-overview.md)
 - [Deployment Model](docs/evaluation-pack/deployment-model.md)
+```markdown
+## Short Notes
 
+- [Why AI Governance Should Start at the Access Path](docs/insights/why-ai-governance-should-start-at-the-access-path.md)
 ## Public website pages
 
 - [SecureAI Gateway Website](https://secureaigateway.ai)
